@@ -1,4 +1,4 @@
 pandas
-BeautifulSoup
+BeautifulSoup4
 streamlit
 cryptography
