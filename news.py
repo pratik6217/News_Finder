@@ -61,7 +61,7 @@ elif option == 'Everything':
 			st.error("Nothing Found")
 
 elif option == "Top Headlines":
-	st.title("Top Haedlines:")
+	st.title("Top Headlines:")
 	st.write()
 
 	url = 'https://newsapi.org/v2/top-headlines?country=us&apiKey=79f277fc4923480faa856e19ee212317'
